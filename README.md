@@ -1,5 +1,5 @@
 # MobileTestAutomationFramework
-This project contains mobile test automation framework with Appium.
+This project contains mobile test automation framework for both native app and browser with <b>Appium</b>.
 
 
 Demo 1 (Android Native Application Test): 
